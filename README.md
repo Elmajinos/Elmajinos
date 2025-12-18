@@ -37,7 +37,8 @@ Locations: **Palaiseau, France**
 
 | Project | Description |
 |--------|-------------|
+| [**Hi!ckathon Finalist (2nd/68)**](https://github.com/Elmajinos/hi_paris_2025)| Built a gated model architecture combining a probabilistic router (XGBoost) with a regression expert to handle zero-inflated targets within a team of 6. Designed the business strategy and pitched to the final jury.|
 | [**Data Science Portfolio**](https://github.com/Elmajinos/datascience-portfolio) | A collection of notebooks for data exploration, preprocessing, and modelling workflows. |
 | [**Multi-Layer Perceptron (Binary Classification)**](https://github.com/Elmajinos/Multi_Layer_Perceptron_for_binary_classification) | Implementation of a neural network for binary classification, including forward/backpropagation and gradient descent. |
-| [**Hi!ckathon Finalist (2nd/68)**](https://github.com/Elmajinos/hi_paris_2025)| Built a gated model architecture combining a probabilistic router (XGBoost) with a regression expert to handle zero-inflated targets within a team of 6. Designed the business strategy and pitched to the final jury. *(Link coming soon)* |
+
 
