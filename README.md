@@ -24,7 +24,7 @@ and an Engineering degree in Applied Mathematics at Télécom SudParis.
 My academic focus includes Deep Learning, Machine Learning, Optimization,  
 Reinforcement Learning, Representation Learning, LLMs and text data (NLP).
 
-I am currently looking for a **4–6 month internship in Machine Learning / AI / Data Science for Spring–Summer 2026**.
+I am currently looking for a **6 month internship in Machine Learning / AI / Data Science for Spring–Summer 2026**.
 
 Schools: **École Polytechnique** & **Télécom SudParis**  
 Focus areas: **Deep Learning**, **Machine Learning**, **Optimization**, **Reinforcement Learning**,  
